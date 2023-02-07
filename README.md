@@ -1,3 +1,3 @@
 # wavetrade
 WaveTrade Django app
-okay
+okay2
