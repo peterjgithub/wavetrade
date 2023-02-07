@@ -1,0 +1,2 @@
+# wavetrade
+WaveTrade Django app
