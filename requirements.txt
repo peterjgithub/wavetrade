@@ -1,6 +1,9 @@
-asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
+asgiref==3.4.1
 certifi==2020.6.20
 Django==3.0.3
+pip==22.2.2
 pytz==2021.3
-sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
-typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+setuptools==65.5.0
+sqlparse==0.4.1
+typing_extensions==4.1.1
+wheel==0.37.1
